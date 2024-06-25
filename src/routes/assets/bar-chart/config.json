@@ -1,0 +1,22 @@
+{
+    "Chart-root": {
+      "property": {
+        "paddingLeft": 40
+      }
+    },
+    "Bar-bar": {
+      "property": {
+        "cornerRadius": 10
+      }
+    },
+    "Bar-root": {
+      "property": {
+        "groupSpacing": 30
+      }
+    },
+    "Scale-labelXAxis": {
+      "property": {
+        "anchor": "center"
+      }
+    }
+  }

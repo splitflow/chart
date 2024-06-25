@@ -1,0 +1,135 @@
+{
+    "PieChart-root": {
+        "position": {
+            "mainAxisAlignment": "stretch",
+            "crossAxisAlignment": "stretch"
+        },
+        "layout": {
+            "direction": "row",
+            "mainAxisAlignment": "start",
+            "crossAxisAlignment": "start",
+            "spacing": 1
+        }
+    },
+    "Pie-root": {
+        "position": {
+            "mainAxisAlignment": "stretch",
+            "crossAxisAlignment": "stretch"
+        }
+    },
+    "Pie-slice": {
+        "fill": {
+            "color": [
+                "#scheme",
+                "#scheme",
+                "#scheme",
+                "#scheme"
+            ]
+        }
+    },
+    "Pie-slice:slice2": {
+        "fill": {
+            "color": [
+                "#scheme2",
+                "#scheme2",
+                "#scheme2",
+                "#scheme2"
+            ]
+        }
+    },
+    "Pie-slice:slice3": {
+        "fill": {
+            "color": [
+                "#scheme3",
+                "#scheme3",
+                "#scheme3",
+                "#scheme3"
+            ]
+        }
+    },
+    "Legend-root": {
+        "layout": {
+            "direction": "column",
+            "mainAxisAlignment": "start",
+            "crossAxisAlignment": "stretch",
+            "spacing": 1
+        },
+        "background": {
+            "color": [
+                0,
+                0,
+                100,
+                100
+            ]
+        },
+        "padding": {
+            "top": 1,
+            "bottom": 1,
+            "left": 1,
+            "right": 1
+        },
+        "corner": {
+            "topLeft": 0.5,
+            "topRight": 0.5,
+            "bottomLeft": 0.5,
+            "bottomRight": 0.5
+        }
+    },
+    "Legend-data": {
+        "layout": {
+            "direction": "row",
+            "mainAxisAlignment": "start",
+            "crossAxisAlignment": "center",
+            "spacing": 1
+        }
+    },
+    "Legend-marker": {
+        "size": {
+            "width": 0.75,
+            "height": 2
+        },
+        "background": {
+            "color": [
+                "#scheme",
+                "#scheme",
+                "#scheme",
+                "#scheme"
+            ]
+        },
+        "corner": {
+            "topLeft": 0.25,
+            "topRight": 0.25,
+            "bottomLeft": 0.25,
+            "bottomRight": 0.25
+        }
+    },
+    "Legend-marker:slice2": {
+        "background": {
+            "color": [
+                "#scheme2",
+                "#scheme2",
+                "#scheme2",
+                "#scheme2"
+            ]
+        }
+    },
+    "Legend-marker:slice3": {
+        "background": {
+            "color": [
+                "#scheme3",
+                "#scheme3",
+                "#scheme3",
+                "#scheme3"
+            ]
+        }
+    },
+    "Legend-name": {
+        "position": {
+            "mainAxisAlignment": "stretch",
+            "crossAxisAlignment": "center"
+        },
+        "typography": {
+            "fontWeight": 500
+        }
+    }
+}

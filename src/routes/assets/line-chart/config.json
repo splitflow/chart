@@ -1,0 +1,17 @@
+{
+  "Chart-root": {
+      "property": {
+          "paddingLeft": 40,
+          "paddingTop": 30,
+          "paddingRight": 25
+      }
+  },
+  "Scale-labelXAxis": {
+      "property": {
+          "anchor": "center"
+      }
+  },
+  "Line-dot": {
+      "enabled": true
+  }
+}

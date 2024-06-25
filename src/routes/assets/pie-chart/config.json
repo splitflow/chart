@@ -1,0 +1,8 @@
+{
+    "Pie-root": {
+        "property": {
+            "innerRadius": 50,
+            "padAngle": 2
+        }
+    }
+}
